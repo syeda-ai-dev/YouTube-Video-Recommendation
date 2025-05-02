@@ -1,0 +1,5 @@
+streamlit
+tavily-python
+groq
+python-dotenv
+google-api-python-client
